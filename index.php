@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
+    <?php include 'sections/audio-player.php'; ?>
     <?php include 'sections/hero.php'; ?>
     <?php include 'sections/problem.php'; ?>
     <?php include 'sections/solution.php'; ?>
@@ -23,5 +24,6 @@
     <?php include 'sections/footer.php'; ?>
     
     <script src="js/animations.js"></script>
+    <script src="js/audio-player.js"></script>
 </body>
 </html>
