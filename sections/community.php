@@ -86,7 +86,7 @@
             <p style="font-size: 1.3rem; font-weight: 600; margin-bottom: 2rem;">
                 Join <span class="gradient-text">5,000+ supporters</span> who've already made a difference
             </p>
-            <a href="https://freelancesolutions.myshopify.com/" class="cta-button">
+            <a href="https://freelancesolutions.myshopify.com/collections/all" class="cta-button">
                 Be Part of the Movement
             </a>
         </div>

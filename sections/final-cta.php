@@ -10,7 +10,7 @@
             <p style="font-size: 1.8rem; font-weight: 700; margin-bottom: 2rem;">
                 Join the #FeedCarl Movement Today
             </p>
-            <a href="https://freelancesolutions.myshopify.com/" class="cta-button" style="font-size: 1.3rem; padding: 1.5rem 4rem;">
+            <a href="https://freelancesolutions.myshopify.com/collections/all" class="cta-button" style="font-size: 1.3rem; padding: 1.5rem 4rem;">
                 Shop Now & Feed a Developer
             </a>
         </div>

@@ -51,7 +51,7 @@
                 Be part of something bigger than yourself. Every purchase is a vote for a 
                 fairer, more inclusive tech industry.
             </p>
-            <a href="https://freelancesolutions.myshopify.com/" class="cta-button">
+            <a href="https://freelancesolutions.myshopify.com/collections/all" class="cta-button">
                 Shop the Collection
             </a>
         </div>

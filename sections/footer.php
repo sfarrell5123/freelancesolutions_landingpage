@@ -12,7 +12,7 @@
             </p>
         </div>
         <div style="margin-top: 1.5rem; display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap;">
-            <a href="https://freelancesolutions.myshopify.com/" style="color: var(--text-secondary); text-decoration: none; transition: color 0.3s;">
+            <a href="https://freelancesolutions.myshopify.com/collections/all" style="color: var(--text-secondary); text-decoration: none; transition: color 0.3s;">
                 Shop
             </a>
             <a href="#" style="color: var(--text-secondary); text-decoration: none; transition: color 0.3s;">

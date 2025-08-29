@@ -8,7 +8,7 @@
             Every shirt you buy puts food on a Filipino web developer's table. 
             Join the movement that's transforming lives, one line of code at a time.
         </p>
-        <a href="https://freelancesolutions.myshopify.com/" class="cta-button fade-in">
+        <a href="https://freelancesolutions.myshopify.com/collections/all" class="cta-button fade-in">
             Shop Now & Make a Difference
         </a>
         <div class="metric-cards fade-in">

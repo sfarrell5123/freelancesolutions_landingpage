@@ -17,8 +17,8 @@
                         <p style="color: var(--text-secondary); margin: 1rem 0;">
                             Show your WordPress pride while feeding the community
                         </p>
-                        <div class="product-price">₱1,299</div>
-                        <a href="https://freelancesolutions.myshopify.com/" class="cta-button" style="margin-top: 1rem; display: inline-block; padding: 0.8rem 2rem; font-size: 1rem;">
+                        <div class="product-price">₱23.99</div>
+                        <a href="https://freelancesolutions.myshopify.com/collections/all" class="cta-button" style="margin-top: 1rem; display: inline-block; padding: 0.8rem 2rem; font-size: 1rem;">
                             Buy Now
                         </a>
                     </div>
@@ -32,8 +32,8 @@
                         <p style="color: var(--text-secondary); margin: 1rem 0;">
                             Perfect for those late-night coding sessions
                         </p>
-                        <div class="product-price">₱2,499</div>
-                        <a href="https://freelancesolutions.myshopify.com/" class="cta-button" style="margin-top: 1rem; display: inline-block; padding: 0.8rem 2rem; font-size: 1rem;">
+                        <div class="product-price">₱41.98</div>
+                        <a href="https://freelancesolutions.myshopify.com/collections/all" class="cta-button" style="margin-top: 1rem; display: inline-block; padding: 0.8rem 2rem; font-size: 1rem;">
                             Buy Now
                         </a>
                     </div>
@@ -47,8 +47,8 @@
                         <p style="color: var(--text-secondary); margin: 1rem 0;">
                             Inspire persistence in code and life
                         </p>
-                        <div class="product-price">₱1,199</div>
-                        <a href="https://freelancesolutions.myshopify.com/" class="cta-button" style="margin-top: 1rem; display: inline-block; padding: 0.8rem 2rem; font-size: 1rem;">
+                        <div class="product-price">₱30.00</div>
+                        <a href="https://freelancesolutions.myshopify.com/collections/all" class="cta-button" style="margin-top: 1rem; display: inline-block; padding: 0.8rem 2rem; font-size: 1rem;">
                             Buy Now
                         </a>
                     </div>
@@ -62,8 +62,8 @@
                         <p style="color: var(--text-secondary); margin: 1rem 0;">
                             Shield yourself from bugs and sun
                         </p>
-                        <div class="product-price">₱899</div>
-                        <a href="https://freelancesolutions.myshopify.com/" class="cta-button" style="margin-top: 1rem; display: inline-block; padding: 0.8rem 2rem; font-size: 1rem;">
+                        <div class="product-price">₱25.99</div>
+                        <a href="https://freelancesolutions.myshopify.com/collections/all" class="cta-button" style="margin-top: 1rem; display: inline-block; padding: 0.8rem 2rem; font-size: 1rem;">
                             Buy Now
                         </a>
                     </div>
@@ -77,8 +77,8 @@
                         <p style="color: var(--text-secondary); margin: 1rem 0;">
                             Spread the love, feed the community
                         </p>
-                        <div class="product-price">₱2,299</div>
-                        <a href="https://freelancesolutions.myshopify.com/" class="cta-button" style="margin-top: 1rem; display: inline-block; padding: 0.8rem 2rem; font-size: 1rem;">
+                        <div class="product-price">₱41.99</div>
+                        <a href="https://freelancesolutions.myshopify.com/collections/all" class="cta-button" style="margin-top: 1rem; display: inline-block; padding: 0.8rem 2rem; font-size: 1rem;">
                             Buy Now
                         </a>
                     </div>
@@ -96,8 +96,8 @@
                         <p style="color: var(--text-secondary); margin: 1rem 0;">
                             Surprise bundle with maximum impact
                         </p>
-                        <div class="product-price">₱3,999</div>
-                        <a href="https://freelancesolutions.myshopify.com/" class="cta-button" style="margin-top: 1rem; display: inline-block; padding: 0.8rem 2rem; font-size: 1rem;">
+                        <div class="product-price">₱99.99</div>
+                        <a href="https://freelancesolutions.myshopify.com/collections/all" class="cta-button" style="margin-top: 1rem; display: inline-block; padding: 0.8rem 2rem; font-size: 1rem;">
                             Buy Now
                         </a>
                     </div>
