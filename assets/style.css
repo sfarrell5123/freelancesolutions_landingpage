@@ -1,0 +1,74 @@
+:root {
+  --brand-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 25%, #f093fb 50%, #f5576c 75%, #fda085 100%);
+  --glass-bg: rgba(255,255,255,0.05);
+  --glass-border: rgba(255,255,255,0.1);
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.gradient-text {
+  background: var(--brand-gradient);
+  background-size: 200% 200%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradient-shift 8s ease infinite;
+}
+
+.cta-button {
+  background: var(--brand-gradient);
+  border-radius: 9999px;
+  padding: 1rem 2rem;
+  font-weight: 700;
+  color: #fff;
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+.cta-button:hover {
+  transform: scale(1.05);
+}
+
+.glass-card {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  backdrop-filter: blur(10px);
+  border-radius: 0.75rem;
+  transition: transform 0.3s ease, background 0.3s ease;
+}
+
+.glass-card:hover {
+  transform: translateY(-4px);
+  background: rgba(255,255,255,0.08);
+}
+
+.hero-bg::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 30% 30%, rgba(255,255,255,0.1), transparent 70%);
+  animation: float 10s ease-in-out infinite alternate;
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+@keyframes gradient-shift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes float {
+  from { transform: translateY(-10px); }
+  to { transform: translateY(10px); }
+}
