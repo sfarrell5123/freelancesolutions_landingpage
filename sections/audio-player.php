@@ -11,8 +11,10 @@
         </button>
         <div class="audio-info">
             <span class="audio-emoji">🎙️</span>
-            <span class="audio-title">Listen to the Hype!</span>
-            <span class="audio-subtitle">Funny radio play explaining FreelanceSolutions</span>
+            <div class="audio-text">
+                <span class="audio-title">Listen to the Hype!</span>
+                <span class="audio-subtitle">Funny radio play explaining FreelanceSolutions</span>
+            </div>
         </div>
     </div>
     <audio id="audioElement" preload="metadata">
